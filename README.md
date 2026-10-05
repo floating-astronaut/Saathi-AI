@@ -73,7 +73,7 @@ name is not free there.
   git push origin <branch> && git push gitlab <branch>
   ```
   origin = GitHub `Nuraveda-Labs/saathi` · gitlab = GitLab `nuraveda-lab/saathi`
-- Every commit is authored `Tejas Karan Agrawal <help.nuraveda@gmail.com>` and
+- Every commit is authored `Tejas Karan Agrawal <tejaskagrawalgwl@gmail.com>` and
   **SSH-signed on both the dev box and the runtime box** (2026-07-30). The
   runtime box now has its own signing key (`~/.ssh/saathi_github_ed25519`),
   registered as a signing key on GitHub and GitLab, so commits authored on either

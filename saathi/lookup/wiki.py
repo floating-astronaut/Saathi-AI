@@ -22,7 +22,7 @@ SUMMARY = "https://en.wikipedia.org/api/rest_v1/page/summary/"
 
 # Wikipedia rejects or throttles unidentified clients, and returns HTML rather
 # than JSON when it does — which is why this failed silently at first.
-HEADERS = {"User-Agent": "Saathi/0.1 (eldercare assistant; help.nuraveda@gmail.com)",
+HEADERS = {"User-Agent": "Saathi/0.1 (eldercare assistant; tejaskagrawalgwl@gmail.com)",
            "Accept": "application/json"}
 
 
