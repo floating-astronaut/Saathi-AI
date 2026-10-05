@@ -158,7 +158,7 @@ So: **the dev box signs because it has the key; the runtime box pushes unsigned.
 Both are legitimate. `CONTRIBUTING.md` is amended to match.
 
 What does *not* change:
-- Every commit is still authored `Tejas Karan Agrawal <help.nuraveda@gmail.com>`.
+- Every commit is still authored `Tejas Karan Agrawal <tejaskagrawalgwl@gmail.com>`.
 - Every commit still goes to **both** remotes.
 - `ops/deploy.sh` still refuses a dirty tree or a non-`main` branch, and deploys
   are still artifact-shipped rather than pulled on the box.

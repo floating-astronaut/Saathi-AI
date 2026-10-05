@@ -84,7 +84,7 @@ the previous tree back.
 
 ## Every commit
 
-- Authored `Tejas Karan Agrawal <help.nuraveda@gmail.com>`
+- Authored `Tejas Karan Agrawal <tejaskagrawalgwl@gmail.com>`
 - **SSH-signed on both boxes** (2026-07-30). The runtime box now has its own
   signing key (`~/.ssh/saathi_github_ed25519`), registered as a signing key on
   GitHub and GitLab, so commits authored on either box verify. Signing is still

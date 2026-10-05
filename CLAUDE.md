@@ -139,7 +139,7 @@ not a refactor. Full reasoning in `docs/ARCHITECTURE.md` and `docs/DECISIONS.md`
 - **Delete synthetic test rows** after verifying — `users`, `messages`,
   `scheduled_turns`.
 - Ask before destructive actions; back up config before replacing it.
-- Commits are authored `Tejas Karan Agrawal <help.nuraveda@gmail.com>` and
+- Commits are authored `Tejas Karan Agrawal <tejaskagrawalgwl@gmail.com>` and
   pushed to **both** remotes. **Signed on both boxes now** — the runtime box has
   its own SSH signing key registered on GitHub + GitLab, so commits here verify
   (`%G?` = `G`); see D-L's 2026-07-30 update. Signing is still not a *gate* on
